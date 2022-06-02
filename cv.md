@@ -1,4 +1,4 @@
-# Hello. 
+# Hello!
 # I am Yaroshinskiy Yauheni
 ## My contacts
 * Location: Minsk, Belarus; Molodeshno, Belarus
